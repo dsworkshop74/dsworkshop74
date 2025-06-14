@@ -79,8 +79,8 @@ Indian Institute of Technology, Bombay (IITB)
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexraodatasci&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexraodatasci&layout=compact&theme=radical)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsworkshop74&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsworkshop74&layout=compact&theme=radical)
 
 ---
 
